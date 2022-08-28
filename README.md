@@ -118,13 +118,13 @@ project
 
 ### Checklist features
 
-- [ ] Deve implementar a estrutura esperada em `util/CustomTerminal.js`
+- [x] Deve implementar a estrutura esperada em `util/CustomTerminal.js`
 
-- [ ] Deve implementar os métodos existentes em `service/CryptoService.js`
+- [x] Deve implementar os métodos existentes em `service/CryptoService.js`
 
-- [ ] Deve implementar a estrutura esperada no arquivo `entity/User.js`
+- [x] Deve implementar a estrutura esperada no arquivo `entity/User.js`
 
-- [ ] Deve implementar as estruturas esperadas no arquivo `entity/Users.js`
+- [x] Deve implementar as estruturas esperadas no arquivo `entity/Users.js`
 
 ## Submissão
 
