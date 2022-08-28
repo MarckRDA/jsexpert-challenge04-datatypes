@@ -11,4 +11,5 @@ class CryptoRepository {
   }
 }
 
+
 export default CryptoRepository;
